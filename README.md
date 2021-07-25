@@ -3,7 +3,7 @@
 
 ## Purpose:
 
-I have been tasked with evaluating four new investment options for inclusion in the client portfolios of a hypotehtical fintech investing platform. 
+I have been tasked with evaluating four new investment options for inclusion in the client portfolios of a hypothetical fintech investing platform. 
 
 I need to determine the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
   
