@@ -2,7 +2,7 @@
 ## Evaluating Funds against the market
 
 ### Purpose:
-  
+
   
 ## Summary of Analysis:
 
