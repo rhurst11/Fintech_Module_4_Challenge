@@ -8,11 +8,15 @@
 
 ### Cumulative Returns
 
-![alt text](https://github.com/rhurst11/Fintech_Module_4_Challenge/blob/main/Workspace/cumulative_returns.png)
+![alt text](https://github.com/rhurst11/Fintech_Module_4_Challenge/blob/main/Workspace/Screenshots_Mod_4_Challenge/Screen%20Shot%202021-07-25%20at%2012.10.03%20PM.png)
 
 ### Daily Returns
 
-![alt text](https://github.com/rhurst11/Fintech_Module_4_Challenge/blob/main/Workspace/daily_returns.png)
+![alt text](https://github.com/rhurst11/Fintech_Module_4_Challenge/blob/main/Workspace/Screenshots_Mod_4_Challenge/Screen%20Shot%202021-07-25%20at%2012.09.55%20PM.png)
+
+### Daily Returns Dispersion of Funds Only
+
+![alt text](https://github.com/rhurst11/Fintech_Module_4_Challenge/blob/main/Workspace/Screenshots_Mod_4_Challenge/Screen%20Shot%202021-07-25%20at%2012.10.33%20PM.png)
 
 ### 21 Day Rolling Standard Deviation
 
