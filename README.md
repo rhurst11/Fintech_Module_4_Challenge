@@ -20,7 +20,7 @@
 
 ### Annualized Sharpe Ratios
 
-![alt text](https://github.com/rhurst11/Fintech_Module_4_Challenge/blob/main/Workspace/Annualized_Sharpe_Ratios.png)
+![alt text](https://github.com/rhurst11/Fintech_Module_4_Challenge/blob/main/Workspace/Screenshots_Mod_4_Challenge/Screen%20Shot%202021-07-25%20at%2011.59.04%20AM.png)
 
 ### Tiger Global Managament 60 Day Rolling Beta
 
