@@ -16,7 +16,11 @@
 
 ### 21 Day Rolling Standard Deviation
 
-![alt text](https://github.com/rhurst11/Fintech_Module_4_Challenge/blob/main/Workspace/21_Day_Rolling_STD.png)
+![alt text](https://github.com/rhurst11/Fintech_Module_4_Challenge/blob/main/Workspace/Screenshots_Mod_4_Challenge/Screen%20Shot%202021-07-25%20at%2012.10.47%20PM.png)
+
+### 21 Day Rolling Standard Deviation Funds Only
+
+![alt text](https://github.com/rhurst11/Fintech_Module_4_Challenge/blob/main/Workspace/Screenshots_Mod_4_Challenge/Screen%20Shot%202021-07-25%20at%2012.10.53%20PM.png)
 
 ### Annualized Sharpe Ratios
 
