@@ -4,9 +4,14 @@
 ### Purpose:
   
   
-## Summary of Analysis
+## Summary of Analysis:
 
 ### Analyze the Performance
+
+**Question** Based on the cumulative return data and the visualization, do any of the four fund portfolios outperform the S&P 500 Index?
+
+**Answer** No, none of the four funds outperform the S&P 500 over the specified time period.
+
 
 ### Analyze the Volatility
 
@@ -19,15 +24,15 @@
 
 **Question 1**  Based on the annualized standard deviation, which portfolios pose more risk than the S&P 500?
 
-**Answer 1** # Based on the annualized standard deviation, no portfolios pose more risk than the S&P 500 for any signifcant amount of time. On two instances, Berkshire Hathaway Inc had a higher rolling standard deviation relative to the S&P 500, but these instances were short-lived and don't represent any sort of trend.
+**Answer 1** Based on the annualized standard deviation, no portfolios pose more risk than the S&P 500 for any signifcant amount of time. On two instances, Berkshire Hathaway Inc had a higher rolling standard deviation relative to the S&P 500, but these instances were short-lived and don't represent any sort of trend.
 
-**Question 2** Based on the rolling metrics, does the risk of each portfolio increase at the same time that the risk of the S&P 500 increases?
+**Question 2* Based on the rolling metrics, does the risk of each portfolio increase at the same time that the risk of the S&P 500 increases?
 
-**Answer 2** # Based on the rolling metrics, the risk of each portfolio seems to increase slightly as the S&P 500 increases, but all of these funds react with significantly less volatiliy than the S&P 500. Even during the spike in volatility towards the early middle of 2020, presumably from the covid crash, none of the funds came close to the volatility of the S&P 500.
+**Answer 2** Based on the rolling metrics, the risk of each portfolio seems to increase slightly as the S&P 500 increases, but all of these funds react with significantly less volatiliy than the S&P 500. Even during the spike in volatility towards the early middle of 2020, presumably from the covid crash, none of the funds came close to the volatility of the S&P 500.
 
 **Question 3** Based on the rolling standard deviations of only the four fund portfolios, which portfolio poses the most risk? Does this change over time? 
 
-**Answer 3** # 
+**Answer 3**
 
 Based on the rolling standard deviations for the four fund portfolios, the Berkshire Hathaway fund posed the highest risk over the longest period of time. 
 
