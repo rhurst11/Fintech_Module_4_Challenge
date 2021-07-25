@@ -6,15 +6,29 @@
   
 ## Summary of Analysis
 
+### Cumulative Returns
+
 ![alt text](https://github.com/rhurst11/Fintech_Module_4_Challenge/blob/main/Workspace/cumulative_returns.png)
 
-![alt text]()
+### Daily Returns
 
-![alt text]()
+![alt text](https://github.com/rhurst11/Fintech_Module_4_Challenge/blob/main/Workspace/daily_returns.png)
 
-![alt text]()
+### 21 Day Rolling Standard Deviation
 
-![alt text]()
+![alt text](https://github.com/rhurst11/Fintech_Module_4_Challenge/blob/main/Workspace/21_Day_Rolling_STD.png)
+
+### Annualized Sharpe Ratios
+
+![alt text](https://github.com/rhurst11/Fintech_Module_4_Challenge/blob/main/Workspace/Annualized_Sharpe_Ratios.png)
+
+### Tiger Global Managament 60 Day Rolling Beta
+
+![alt text](https://github.com/rhurst11/Fintech_Module_4_Challenge/blob/main/Workspace/60Day_Rolling_Beta_Tiger_Global.png)
+
+### Berkshire Hathaway Fund 60 Day Rolling Beta
+
+![alt text](https://github.com/rhurst11/Fintech_Module_4_Challenge/blob/main/Workspace/60Day_Rolling_Beta_Berkshire.png)
   
 ## Software Requirements:
   Python -- version 3.7.10,
